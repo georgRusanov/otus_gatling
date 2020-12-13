@@ -1,0 +1,10 @@
+{
+  "simulation": "sushi.SushiReliabilitySimulation",
+  "simulationId": "sushireliabilitysimulation",
+  "start": 1607885224440,
+  "description": "",
+  "scenarios": ["open main page", "get orders list", "create order"],
+  "assertions": [
+
+  ]
+}

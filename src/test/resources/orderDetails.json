@@ -1,0 +1,19 @@
+{
+  "name": "asdf",
+  "email": "yirekaw505@prekab.net",
+  "adress": "asfd",
+  "cartItems": [
+    {
+      "_id": "sushi4",
+      "title": "Cucumber",
+      "image": "/images/sushi4.jpg",
+      "description": "Cheapest",
+      "price": 30,
+      "availableSizes": [
+        "Small",
+        "Big"
+      ],
+      "count": 1
+    }
+  ]
+}
